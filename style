@@ -1,0 +1,54 @@
+/* CSS reset */
+*{
+    margin: 0;
+}
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 1,6;
+    color: #10001f;
+    background-color: #f9f9f9;
+}
+
+/* header */
+header {
+    padding: 20px;
+    background: linear-gradient(135deg, #e56884, #7484ed);
+    color: #fafafa;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 24px;
+    margin-top: 10px;   
+}
+
+header p {
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.transition-curve {
+    height: 30px;
+    background: #a140a180;
+    border-top-left-radius: 50% 30px;
+    border-top-right-radius: 50% 30px;
+    margin-top: -10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 20px; /*espaço entre os itens*/
+    justify-content: center; /*centraliza tudo certo*/
+}
+
+/* nav */
+nav {
+    padding: 20px;
+    background-color: #facdfa8f;
+    border-top: 2px solid #ffffff30; /* borda suave */
+    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.1); /* sombra */
+}
