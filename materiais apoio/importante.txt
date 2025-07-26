@@ -1,9 +1,0 @@
-<!DOCTYPE html>: Declara o tipo de documento como HTML5.
-
-<html lang="pt-BR">: Define o idioma do documento como português do Brasil.
-
-<head>: Contém metadados do documento, como charset e viewport, que são importantes para a compatibilidade e responsividade.
-
-<body>: Contém o conteúdo visível da página, como cabeçalhos, listas e parágrafos.
-
-<header>, <main>, e <footer>: Tags semânticas que ajudam a estruturar o conteúdo de forma lógica e acessível.
